@@ -1,0 +1,7 @@
+setup.py
+pyoauth/__init__.py
+pyoauth.egg-info/PKG-INFO
+pyoauth.egg-info/SOURCES.txt
+pyoauth.egg-info/dependency_links.txt
+pyoauth.egg-info/not-zip-safe
+pyoauth.egg-info/top_level.txt
